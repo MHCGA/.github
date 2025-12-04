@@ -1,3 +1,3 @@
 ## 👋
 
--> [Halo CMS 知识库/Halo CMS Knowledge Base](https://github.com/MHCGA/halo-cms-docs)
+[官网/Official site](https://howiehz.top/mhcga) - [仓库/Repo](https://github.com/MHCGA/halo-cms-docs)
